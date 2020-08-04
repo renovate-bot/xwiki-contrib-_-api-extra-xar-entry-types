@@ -28,14 +28,14 @@
     <version>11.10.4</version>
   </parent>
   <artifactId>api-extra-xar-entry-types</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>Extra XAR entry types</name>
   <description>Adds extra XAR entry types defining specific installation and upgrade behaviors.</description>
   <scm>
     <connection>scm:git:git://github.com/xwiki-contrib/api-extra-xar-entry-types.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/api-extra-xar-entry-types.git</developerConnection>
     <url>https://github.com/xwiki-contrib/api-extra-xar-entry-types/tree/master</url>
-    <tag>api-extra-xar-entry-types-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <developers>
     <developer>
