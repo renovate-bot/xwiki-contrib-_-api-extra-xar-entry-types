@@ -25,7 +25,7 @@
   <parent>
     <groupId>org.xwiki.contrib</groupId>
     <artifactId>parent-platform</artifactId>
-    <version>11.10.4</version>
+    <version>11.10-1</version>
   </parent>
   <artifactId>api-extra-xar-entry-types</artifactId>
   <version>1.1-SNAPSHOT</version>
@@ -45,8 +45,7 @@
   </developers>
   <properties>
     <xwiki.release.jira.skip>false</xwiki.release.jira.skip>
-    <xwiki.issueManagement.system>jira</xwiki.issueManagement.system>
-    <xwiki.issueManagement.url>https://jira.xwiki.org/browse/XXET</xwiki.issueManagement.url>
+    <xwiki.issueManagement.jira.id>XXET</xwiki.issueManagement.jira.id>
   </properties>
   <dependencies>
     <dependency>
@@ -66,4 +65,3 @@
     </dependency>
   </dependencies>
 </project>
-
